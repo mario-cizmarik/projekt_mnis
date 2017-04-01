@@ -1,2 +1,2 @@
-# projekt_mnis
-* toto je uloha na predmet MNIS01
+# My example homepage / MNIS01
+* this is my first personal homepage created to learn git on subject MNIS01.
